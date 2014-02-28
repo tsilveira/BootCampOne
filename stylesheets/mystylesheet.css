@@ -70,3 +70,15 @@ section#sidebar
 }
 	float: right;
 {
+
+}
+
+ol{
+	list-style: disc;
+	color:blue;
+}
+
+ul{
+	list-style: square;
+	color: yellow;
+}
